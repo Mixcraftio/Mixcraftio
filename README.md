@@ -2,13 +2,13 @@
 
 # **Dimitri FAJAL**
 
-Hey there! I’m **Dimitri**, a 20-year-old student with a strong interest in everything tech-related — from coding and electronics to reverse engineering and tinkering.
+Hey there! I’m **Dimitri**, a 20-year-old student with a strong interest in everything tech-related — from coding and electronics, cyber or reverse engineering and tinkering as a whole. I'm always learning new tech and I love it !
 
 > 📌 Make sure to check out my pinned projects !
 
 ## 🧑‍💻 About Me
 
-- 🎓 Currently studying in a **PSI** preparatory class (CPGE)
+- 🎓 Currently studying Computer Science at TSP (Télécom SudParis)
 - 🚀 Building and launching rockets with my club for over 10 years
 - 🔧 Very keen on meddling with side projects — websites, middleware, hardware… you name it
 
@@ -16,9 +16,9 @@ Hey there! I’m **Dimitri**, a 20-year-old student with a strong interest in ev
 
 [![Email](https://img.shields.io/badge/dimitri.faj@orange.fr-FF7900?style=for-the-badge&logo=orange&logoColor=white)](mailto:dimitri.faj@orange.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dimitri%20FAJAL-0a66c2?style=for-the-badge&labelColor=0a66c2&logo=linkedin)](https://www.linkedin.com/in/dimitri-fajal/)
-[![GitHub](https://img.shields.io/badge/Mixcraftio-181717?style=for-the-badge&logo=github)](https://github.com/Mixcraftio)
+[![GitHub](https://img.shields.io/badge/AzTeK-181717?style=for-the-badge&logo=github)](https://github.com/AzTeK)
 
-## 🛠️ Tech I've worked with and know extensively
+## 🛠️ Tech I've already worked with
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -29,6 +29,7 @@ Hey there! I’m **Dimitri**, a 20-year-old student with a strong interest in ev
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 ### Web

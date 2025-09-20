@@ -13,8 +13,8 @@
     </style>
     <defs>
         <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" stop-color="#654932"/>
-            <stop offset="100%" stop-color="#709c41"/>
+            <stop offset="0%" stop-color="#CBA135"/>
+            <stop offset="100%" stop-color="#8B1E1E"/>
         </linearGradient>
     </defs>
 
@@ -45,9 +45,9 @@
 
     <!-- Text well below the waves -->
     <text text-anchor="middle" x="50%" y="80%" class="text" style="fill:#ffffff;" stroke-width="1">
-        Mixcraftio
+        AzTeK
     </text>
     <text text-anchor="middle" x="60%" y="90%" class="desc" style="fill:#ffffff;">
-        Error-driven development
+        Striving to do better
     </text>
 </svg>
