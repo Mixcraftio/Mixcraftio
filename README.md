@@ -16,7 +16,7 @@ Hey there! I’m **Dimitri**, a 20-year-old student with a strong interest in ev
 
 [![Email](https://img.shields.io/badge/dimitri.faj@orange.fr-FF7900?style=for-the-badge&logo=orange&logoColor=white)](mailto:dimitri.faj@orange.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dimitri%20FAJAL-0a66c2?style=for-the-badge&labelColor=0a66c2&logo=linkedin)](https://www.linkedin.com/in/dimitri-fajal/)
-[![GitHub](https://img.shields.io/badge/AzTeK-181717?style=for-the-badge&logo=github)](https://github.com/AzTeK)
+[![GitHub](https://img.shields.io/badge/AzTeK-181717?style=for-the-badge&logo=github)](https://github.com/Neo-AzTeK)
 
 ## 🛠️ Tech I've already worked with
 
